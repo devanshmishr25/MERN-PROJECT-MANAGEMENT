@@ -1,0 +1,29 @@
+{
+  "name": "mern-project-management",
+  "version": "1.0.0",
+  "description": "A MERN application for basic mern-project-management",
+  "main": "index.js",
+  "scripts": {
+    "dev-server": "npm run dev --prefix backend",
+    "dev-client": "npm start --prefix frontend",
+    "dev": "concurrently \"npm run dev-server\" \"npm run dev-client\"",
+    "install-all": "npm install && npm install --prefix frontend && npm install --prefix backend",
+    "heroku-postbuild": "npm install --prefix frontend && npm run build --prefix frontend && npm install --prefix backend",
+    "build": "npm install --prefix frontend && npm run build --prefix frontend && npm install --prefix backend",
+    "start": "cd backend && node app.js"
+  },
+  "keywords": [
+    "MERN",
+    "projects",
+    "mern-project-management",
+    "Full stack application"
+  ],
+  "author": "Devansh",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^7.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
