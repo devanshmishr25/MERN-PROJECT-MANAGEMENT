@@ -1,7 +1,7 @@
 # MERN Project Manager
 
 A MERN application for basic projects management.
-!([image](https://github.com/user-attachments/assets/f86c3dd2-1287-4c8d-b66a-0f4ce328b026))
+[image](https://github.com/user-attachments/assets/f86c3dd2-1287-4c8d-b66a-0f4ce328b026)
 
 ### User-side features
 
