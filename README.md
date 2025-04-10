@@ -65,7 +65,10 @@ Following are the major dev-dependencies of the project:
    npm run install-all
    ```
 
-2. File named ".env" inside the backend folder substitute your credentials there.
+2. Add a  File named ".env" inside the backend folder substitute your credentials there. 
+
+    MONGODB_URL = your-mongodb-url
+    ACCESS_TOKEN_SECRET = Rj2S?RVe9[]8-dCS6A**&b5Tsg$gwbg~Bd{*QTK
 
 3. Start the application
 
