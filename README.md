@@ -2,7 +2,7 @@
 
 A MERN application for basic projects management.
 [image](https://github.com/user-attachments/assets/f86c3dd2-1287-4c8d-b66a-0f4ce328b026)
-
+[Video](https://drive.google.com/file/d/1AIdjUNEjhYeVvCODhR_04K5OTYM08s1h/view?usp=sharing)
 ### User-side features
 
 - Signup
